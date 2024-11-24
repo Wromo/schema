@@ -1,5 +1,5 @@
 {
-    "$schema": "https://wromo.github.io/draft-01/schema#",
+    "$schema": "https://wromo.github.io/schema/draft-01/schema#",
     "type": "object",
     "properties": {
       "style": {
