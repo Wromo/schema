@@ -1,6 +1,6 @@
 {
-    "$schema": "http://wromo.github.io/draft-01/schema#",
-    "$id": "http://wromo.github.io/draft-01/schema#",
+    "$schema": "https://wromo.github.io/draft-01/schema#",
+    "$id": "https://wromo.github.io/draft-01/schema#",
     "title": "Core se schema meta-schema",
     "definitions": {
         "schemaArray": {
